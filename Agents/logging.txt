@@ -1,0 +1,17 @@
+Your Conversation Log:
+Human: Hi
+AI: Hi there! How can I help you today?
+
+Human: My name is romit
+AI: Nice to meet you, Romit! Is there anything I can do for you, Romit?
+
+Human: what is my name
+AI: Your name is Romit.
+
+Human: what is 2+2
+AI: 2 + 2 = 4
+
+Human: what is my name
+AI: Your name is Romit.
+
+End of Conversation

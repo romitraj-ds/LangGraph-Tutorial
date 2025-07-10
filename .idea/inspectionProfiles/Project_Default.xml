@@ -1,0 +1,51 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="37">
+            <item index="0" class="java.lang.String" itemvalue="ravnml-strategies" />
+            <item index="1" class="java.lang.String" itemvalue="onnxruntime-gpu" />
+            <item index="2" class="java.lang.String" itemvalue="captum" />
+            <item index="3" class="java.lang.String" itemvalue="protobuf" />
+            <item index="4" class="java.lang.String" itemvalue="tabulate" />
+            <item index="5" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="6" class="java.lang.String" itemvalue="nltk" />
+            <item index="7" class="java.lang.String" itemvalue="datasets" />
+            <item index="8" class="java.lang.String" itemvalue="numpy" />
+            <item index="9" class="java.lang.String" itemvalue="ftfy" />
+            <item index="10" class="java.lang.String" itemvalue="seqeval" />
+            <item index="11" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="12" class="java.lang.String" itemvalue="rangetree" />
+            <item index="13" class="java.lang.String" itemvalue="onnx" />
+            <item index="14" class="java.lang.String" itemvalue="sympy" />
+            <item index="15" class="java.lang.String" itemvalue="pyarrow" />
+            <item index="16" class="java.lang.String" itemvalue="pathos" />
+            <item index="17" class="java.lang.String" itemvalue="dataclasses_json" />
+            <item index="18" class="java.lang.String" itemvalue="transformers" />
+            <item index="19" class="java.lang.String" itemvalue="optimum" />
+            <item index="20" class="java.lang.String" itemvalue="torch" />
+            <item index="21" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="22" class="java.lang.String" itemvalue="attrs" />
+            <item index="23" class="java.lang.String" itemvalue="pandas" />
+            <item index="24" class="java.lang.String" itemvalue="artifactory-client" />
+            <item index="25" class="java.lang.String" itemvalue="fonttools" />
+            <item index="26" class="java.lang.String" itemvalue="ravnml-logging" />
+            <item index="27" class="java.lang.String" itemvalue="pillow" />
+            <item index="28" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="29" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="30" class="java.lang.String" itemvalue="lib-text-pytorch-models" />
+            <item index="31" class="java.lang.String" itemvalue="poetry" />
+            <item index="32" class="java.lang.String" itemvalue="litserve" />
+            <item index="33" class="java.lang.String" itemvalue="tornado" />
+            <item index="34" class="java.lang.String" itemvalue="flask" />
+            <item index="35" class="java.lang.String" itemvalue="spacy" />
+            <item index="36" class="java.lang.String" itemvalue="langchain" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

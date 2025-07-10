@@ -1,0 +1,9 @@
+python-dotenv>=1.0.0
+langchain-google-genai
+langgraph
+langchain_openai
+langchain_community
+langchain
+langchain_chroma
+langchain_core
+pypdf
